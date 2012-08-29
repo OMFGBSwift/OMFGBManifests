@@ -4,7 +4,7 @@
 "device"="all",
 "name"="Google Apps",
 "zipname"="GAPPS.zip",
-"url"="http://r2doesinc.bitsurge.net/Addons/gapps-07-27-xx.zip",
+"url"="http://cmw.22aaf3.com/gapps/gapps-gb-20110828-signed.zip",
 "installable"="false",
 "category"="google",
 "description"="Google Apps for OMFGB - 09-29"
